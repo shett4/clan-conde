@@ -159,7 +159,7 @@ Una comparativa de la tecnología transferida, el tipo de leyes y sociedades cre
 Documental norteamericano sobre la expedición Anza de 1775: un ejemplo de expedición colonizadora; se valora su realidad multiétnica, la búsqueda de soluciones pacíficas, su sentido civilizador y explorador, etc...</p>
 <StaticImage
         alt="Equipo de Clan Conde os Saluda"
-        src="../images/condeteam.jpg"
+        src="../images/condeteam.png"
       />
 <h3>Los miembros del Clan Conde os Saluda!</h3>
 <p>si quieres mejorar la web, ponte en contacto con winop, la web tiene el codigo abierto via github</p>

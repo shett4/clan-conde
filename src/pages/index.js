@@ -157,6 +157,12 @@ El noble guerrero de Tlaxcala, Acxotécatl, reconocido como aliado de los españ
 La vida de los niños, la de los ancianos, la de los enfermos, los bebés, incluso los esclavos... todas las vidas estaban protegidas por la ley en la América Hispana, con todos los abusos y las ineficacias procesales y corruptelas que se quiera señalar. Pero se acabó con la idea de que es correcto que cualquier fuerte podía matar a un débil, enfermo o niño. Es el tipo de cambio social que podemos llamar civilizar. 
 Una comparativa de la tecnología transferida, el tipo de leyes y sociedades creadas, la limitación de la guerra y la violencia, la mejora en alimentación y comunicaciones, las libertades, la protección de los débiles, la educación y formación, los avances sanitarios y médicos... todo esto dará un balance positivo a cualquier visión global de la presencia española en América.  
 Documental norteamericano sobre la expedición Anza de 1775: un ejemplo de expedición colonizadora; se valora su realidad multiétnica, la búsqueda de soluciones pacíficas, su sentido civilizador y explorador, etc...</p>
+<StaticImage
+        alt="Equipo de Clan Conde os Saluda"
+        src="../images/condeteam.jpg"
+      />
+<h3>Los miembros del Clan Conde os Saluda!</h3>
+<p>si quieres mejorar la web, ponte en contacto con winop, la web tiene el codigo abierto via github</p>
     </main>
   )
 }

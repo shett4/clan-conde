@@ -4,36 +4,30 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Las tripas de la página web del Clan Conde de TZAR
 </h1>
 
-## 🚀 Quick start
+## 🚀 Pasos para mejorar la página web.
 
-1.  **Create a Gatsby site.**
+1.  **Empieza a desarrollar.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
-
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+    Navega hasta la carpeta y inicialo
 
     ```shell
-    cd my-gatsby-site/
+    cd clan-conde/
+
     npm run develop
+    o
+    gatsby develop  (yo uso esta última)
     ```
 
-3.  **Open the code and start customizing!**
+2.  **Abre el código y empieza a editar!**
 
-    Your site is now running at http://localhost:8000!
+    La web estara corriendo en http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    Edita `src/pages/index.js` para ver cambios en tiempo real!
 
-4.  **Learn more**
+3.  **Aprende más**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
@@ -47,8 +41,25 @@
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 Lanza una propuesta.
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+Crea un "pull request" para modificar el codigo en github. 
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+El código que ves en Github es lo que hay en https://clanconde.gatsbyjs.io/
+
+Cualquiera cambio en Github será visible en menos de 5-10 minutos en el servidor  https://clanconde.gatsbyjs.io/
+
+
+##  Lista de cosas pendientes (TODO)
+
+Lista de tareas pendientes
+
+1. Winop >>> Se compromete a crear un intro guapisima en "3D" para antes de octubre.
+
+2. Espartano >>> Va ha relatar con pelos y señales una historia de superación personal, Su victoria con Ali-G
+
+3. Campesino Chileno >>> Se compromete a dibujar algo chulo aunque sea con el paint.
+
+4. GREEN >>> Va crear una sección especial sobre sacerdocio y sacrificios a nuestro dios DONYO.
+
+
